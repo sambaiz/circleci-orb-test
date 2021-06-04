@@ -1,6 +1,6 @@
 # Orb Source
 
-testtesttest
+test
 
 Orbs are shipped as individual `orb.yml` files, however, to make development easier, it is possible to author an orb in _unpacked_ form, which can be _packed_ with the CircleCI CLI and published.
 
